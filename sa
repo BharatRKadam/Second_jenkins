@@ -1,0 +1,6 @@
+if [ "$build" = "success" ]
+then 
+echo " its is sucessfully executed"
+else
+echo "it is failed"
+fi
